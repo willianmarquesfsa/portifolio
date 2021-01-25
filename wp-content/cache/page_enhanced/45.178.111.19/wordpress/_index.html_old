@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="pt-BR" itemscope="itemscope" itemtype="http://schema.org/WebPage" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://45.178.111.19/wordpress/xmlrpc.php">
+
+<title>Limpaky &#8211; Distribuidora LTDA</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Limpaky &raquo;" href="http://45.178.111.19/wordpress/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Limpaky &raquo;" href="http://45.178.111.19/wordpress/index.php/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de Limpaky &raquo; Produtos" href="http://45.178.111.19/wordpress/index.php/loja/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/45.178.111.19\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://45.178.111.19/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://45.178.111.19/wordpress/wp-includes/css/dist/block-library/theme.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.9.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.9.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400%2C600%2C600%2C700%7CLato%3A400%2C300%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/fontawesome/css/font-awesome.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='lightslider-css'  href='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/css/lightslider.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='linearicons-css'  href='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/linearicons/style.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='storevilla-style-css'  href='http://45.178.111.19/wordpress/wp-content/themes/storevilla/style.css?ver=5.6' type='text/css' media='all' />
+<style id='storevilla-style-inline-css' type='text/css'>
+
+            .main-navigation,
+            .header-wrap .search-cart-wrap .advance-search .sv_search_form #searchsubmit,
+            .top-header-regin ul li span.cart-count,
+            .main-navigation ul ul,
+            .widget_storevilla_cat_widget_area .category-slider li .item-img a:hover .sv_category_count,
+            .product-button-wrap a.button,
+            .product-button-wrap a.added_to_cart,
+            .widget_storevilla_promo_pages_area .promo-area a:hover button,
+            .widget_storevilla_blog_widget_area .blog-preview a.blog-preview-btn:hover,
+            .widget_storevilla_blog_widget_area .large-blog-preview a.blog-preview-btn:hover,
+            .lSSlideOuter .lSPager.lSpg > li:hover a,
+            .lSSlideOuter .lSPager.lSpg > li.active a,
+            .widget_storevilla_contact_info_area ul li span:hover,
+            .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+            .yith-woocompare-widget a.clear-all:hover,
+            .yith-woocompare-widget .compare.button,
+            .widget_search form input[type=submit],
+            .widget_product_search form input[type=submit],
+            .no-results.not-found .search-form .search-submit,
+            .woocommerce nav.woocommerce-pagination ul li a:focus,
+            .woocommerce nav.woocommerce-pagination ul li a:hover,
+            .woocommerce nav.woocommerce-pagination ul li span.current,
+            .item-img .new-label.new-top-left,
+            .widget_storevilla_cat_with_product_widget_area .block-title-desc a.view-bnt:hover,
+            .site-header-cart .woocommerce a.button.wc-forward,
+            .woocommerce #respond input#submit,
+            .woocommerce a.button,
+            .woocommerce button.button,
+            .woocommerce input.button,
+            .header-wrap .search-cart-wrap .advance-search .sv_search_form #searchsubmit:hover,
+            .normal-search .search-form .search-submit:hover,
+            .quantity button,
+            .woocommerce #respond input#submit.alt.disabled,
+            .woocommerce #respond input#submit.alt.disabled:hover,
+            .woocommerce #respond input#submit.alt:disabled,
+            .woocommerce #respond input#submit.alt:disabled:hover,
+            .woocommerce #respond input#submit.alt[disabled]:disabled,
+            .woocommerce #respond input#submit.alt[disabled]:disabled:hover,
+            .woocommerce a.button.alt.disabled,
+            .woocommerce a.button.alt.disabled:hover,
+            .woocommerce a.button.alt:disabled,
+            .woocommerce a.button.alt:disabled:hover,
+            .woocommerce a.button.alt[disabled]:disabled,
+            .woocommerce a.button.alt[disabled]:disabled:hover,
+            .woocommerce button.button.alt.disabled,
+            .woocommerce button.button.alt.disabled:hover,
+            .woocommerce button.button.alt:disabled,
+            .woocommerce button.button.alt:disabled:hover,
+            .woocommerce button.button.alt[disabled]:disabled,
+            .woocommerce button.button.alt[disabled]:disabled:hover,
+            .woocommerce input.button.alt.disabled,
+            .woocommerce input.button.alt.disabled:hover,
+            .woocommerce input.button.alt:disabled,
+            .woocommerce input.button.alt:disabled:hover,
+            .woocommerce input.button.alt[disabled]:disabled,
+            .woocommerce input.button.alt[disabled]:disabled:hover,
+            .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+            .woocommerce div.product .woocommerce-tabs ul.tabs li:hover,
+            .woocommerce #respond input#submit.alt,
+            .woocommerce a.button.alt,
+            .woocommerce button.button.alt,
+            .woocommerce input.button.alt,
+            .main-navigation ul ul li.current-menu-item a,
+            .main-navigation ul ul li a:hover,
+            .main-navigation ul ul li.current-menu-item a,
+            .main-navigation ul ul li a:hover,
+            .woocommerce-MyAccount-navigation ul li.is-active a,
+            .woocommerce-MyAccount-navigation ul li:hover a,
+            .woocommerce #respond input#submit.alt:hover,
+            .woocommerce a.button.alt:hover,
+            .woocommerce button.button.alt:hover,
+            .woocommerce input.button.alt:hover,
+            .woocommerce-cart table.cart .quantity button:hover,
+            .comments-area .form-submit .submit,
+            .error-homepage a,
+            .error-homepage a:hover,
+            .pagination .nav-links span.current,
+            .pagination .nav-links a:hover{
+                background: #0091D5;                
+            }
+            .main-navigation ul li ul li:hover a,
+            .top-header .top-header-regin ul li a:hover,
+            .top-header-regin .count .fa.fa-shopping-basket:hover,
+            .top-header ul.store-quickinfo li a:hover,
+            ul.add-to-links li a:hover,
+            .main-widget-wrap .block-title span,
+            .block-title span,
+            .widget_storevilla_column_product_widget_area .column-wrap .col-wrap .block-title h2,
+            .widget_nav_menu ul li a:hover,
+            .widget_pages ul li a:hover,
+            .widget_recent_entries ul li a:hover,
+            .widget_meta ul li a:hover,
+            .widget_archive ul li a:hover,
+            .widget_categories ul li a:hover,
+            a.scrollup:hover,
+            h3.widget-title, h3.comment-reply-title,
+            .comments-area h2.comments-title,
+            .woocommerce .star-rating span::before,
+            .woocommerce a.remove,
+            .woocommerce nav.woocommerce-pagination ul li a,
+            .woocommerce nav.woocommerce-pagination ul li span,
+            .woocommerce-tabs.wc-tabs-wrapper h2,
+            .woocommerce .woocommerce-tabs p.stars a,
+            .single-product .compare.button:hover,
+            .single-product .entry-summary .yith-wcwl-add-to-wishlist a:hover,
+            td a,
+            .woocommerce-MyAccount-navigation ul li a,
+            .woocommerce-MyAccount-content a,
+            .woocommerce a.remove,
+            table.wishlist_table .product-name a:hover,
+            table.wishlist_table .product-name a.button:hover,
+            .storevilla-blog h3 a:hover,
+            .storevilla-blog .sv-post-content .category-name span a:hover,
+            .storevilla-blog .sv-post-foot a:hover,
+            .storevilla-blog .sv-post-content a.sv-btn-countinuereading:hover,
+            .blog-meta li a:hover,
+            .post-navigation .nav-links .nav-previous a:hover,
+            .post-navigation .nav-links .nav-next a:hover,
+            .widget_recent_comments ul li .comment-author-link a,
+            .top-header .top-navigation ul li a:hover{
+               color: #0091D5; 
+            }
+            .product-button-wrap a.button,
+            .product-button-wrap a.added_to_cart,
+            .widget_storevilla_promo_pages_area .promo-area a:hover button,
+            .widget_storevilla_blog_widget_area .blog-preview a.blog-preview-btn:hover,
+            .widget_storevilla_blog_widget_area .large-blog-preview a.blog-preview-btn:hover,
+            .widget_storevilla_contact_info_area ul li span:hover,
+            .yith-woocompare-widget a.clear-all:hover,
+            .yith-woocompare-widget .compare.button,
+            .woocommerce nav.woocommerce-pagination ul,
+            .woocommerce nav.woocommerce-pagination ul li,
+            .widget_storevilla_cat_with_product_widget_area .block-title-desc a.view-bnt:hover,
+            .product-button-wrap a,
+            .woocommerce #respond input#submit,
+            .woocommerce a.button,
+            .woocommerce button.button,
+            .woocommerce input.button,
+            .woocommerce div.product form.cart div.quantity,
+            .woocommerce-MyAccount-navigation ul li a,
+            .woocommerce-MyAccount-content,
+            .woocommerce .woocommerce-message,
+            .pagination .nav-links span.current,
+            .pagination .nav-links a:hover{
+                border-color: #0091D5;
+            }
+            .woocommerce div.product .woocommerce-tabs .panel.entry-content.wc-tab{
+                border-top-color: #0091D5; 
+            }
+            .item-img .new-label.new-top-left:before{
+                border-color: transparent transparent transparent #0091D5; 
+            }
+            @media (max-width: 768px){
+                  .main-navigation ul li a{
+                        color: #0091D5 !important;
+                  }
+            }
+</style>
+<link rel='stylesheet' id='storevilla-responsive-css'  href='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/css/responsive.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='storevilla-keyboard-css'  href='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/css/keyboard.css?ver=5.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://45.178.111.19/wordpress/index.php/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://45.178.111.19/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://45.178.111.19/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<meta name="generator" content="WooCommerce 4.9.0" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	</head>
+
+<body class="home archive post-type-archive post-type-archive-product wp-embed-responsive theme-storevilla woocommerce woocommerce-page woocommerce-no-js hfeed rightsidebar boxlayout columns-4">
+
+
+<div id="page" class="hfeed site">
+
+	
+		<header id="masthead" class="site-header" >
+							<a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+						<div class="top-header">
+					
+					<div class="store-container clearfix">
+						
+													<nav class="top-navigation" role="navigation"><div class="menu-loja-container"><ul id="menu-loja" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://45.178.111.19/wordpress/index.php/carrinho/">Carrinho</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://45.178.111.19/wordpress/index.php/finalizar-compra/">Finalizar compra</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="http://192.168.0.104/wordpress/index.php/minha-conta/orders/">Pedidos</a></li>
+</ul></div> </nav>
+													
+						<!-- Top-navigation -->
+						
+						<div class="top-header-regin">						
+								
+	                		<ul class="site-header-cart menu">
+
+    							    			
+    			                	<li>
+    				                    <a class="sv_login" href="http://45.178.111.19/wordpress/index.php/minha-conta/">
+    				                        Login / Register    				                    </a>
+    			                    </li>
+    			                
+	                											
+	                			<li>	                				
+	                				                <a class="cart-contents" href="http://45.178.111.19/wordpress/index.php/carrinho/" title="View your shopping cart">
+                    <div class="count">
+                        <i class="fa  fa-shopping-basket"></i>
+                        <span class="cart-count">0</span>
+                    </div>                                      
+                </a>
+            <div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>	                			</li>
+
+	                													<li>
+											<div class="header-widget-region" role="complementary">
+												<section id="woocommerce_widget_cart-3" class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Carrinho</h2>
+<div class="widget_shopping_cart_content"></div></section>											</div>
+										</li>
+								
+	                		</ul>								
+					          
+						</div>
+						
+					</div>
+					
+				</div>
+				
+		<div class="header-wrap clearfix">
+			<div class="store-container">
+				<div class="site-branding">
+										<div class="sv-logo-wrap">
+						<div class="site-title"><a href="http://45.178.111.19/wordpress/" rel="home">Limpaky</a></div>
+												<p class="site-description">Distribuidora LTDA</p>
+											</div>				
+				</div><!-- .site-branding -->
+				<div class="search-cart-wrap clearfix">
+										<div class="advance-search">
+							<form role="search" method="get" id="searchform"  action="http://45.178.111.19/wordpress/">
+						 <div class="sv_search_wrap">
+                            <select class="sv_search_product false" name="term"><option value="">All Categories</option><optgroup class="sv-advance-search" label="All Categories"><option  value="descartaveis">Descartáveis</option><option  value="higiene">Higiene</option><option  value="materiais-de-limpeza">Materiais de Limpeza</option><option  value="outros">Outros</option><option  value="produtos-de-limpeza">Produtos de Limpeza</option><option  value="recipientes">Recipientes</option></optgroup></select>
+						 </div>
+                         <div class="sv_search_form">
+							 <input type="text" value="" name="s" id="s" placeholder="Search entire store here" />
+							 <button type="submit" id="searchsubmit"><i class="fa fa-search"></i></button>
+							 <input type="hidden" name="post_type" value="product" />
+							 <input type="hidden" name="taxonomy" value="product_cat" />
+						 </div>
+					</form>						</div>
+							
+				
+				</div>	
+			</div>
+		</div>
+	
+			<nav id="site-navigation" class="main-navigation">
+			<div class="store-container clearfix">
+				<div class="menu-toggle" aria-controls="primary-navigation" tabindex="0">
+					<span></span>
+				</div>
+				<div class="primary-navigation"><ul id="primary-menu" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-46"><a href="http://45.178.111.19/wordpress/" aria-current="page">Todos</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="http://45.178.111.19/wordpress/index.php/product-category/produtos-de-limpeza/">Produtos de Limpeza</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://45.178.111.19/wordpress/index.php/product-category/materiais-de-limpeza/">Materiais de Limpeza</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="http://45.178.111.19/wordpress/index.php/product-category/descartaveis/">Descartaveis</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="http://45.178.111.19/wordpress/index.php/product-category/higiene/">Higiene</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="http://45.178.111.19/wordpress/index.php/product-category/outros/">Outros</a></li>
+</ul></div>			</div>
+		</nav><!-- #site-navigation -->
+				</header><!-- #masthead -->
+	
+	
+	<div id="content" class="site-content">
+	        <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">
+    <header class="woocommerce-products-header">
+			<h1 class="woocommerce-products-header__title page-title">Loja</h1>
+	
+	</header>
+<div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Exibindo 1&ndash;12 de 48 resultados</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Pedido da loja">
+					<option value="popularity"  selected='selected'>Ordenar por popularidade</option>
+					<option value="rating" >Ordenar por média de classificação</option>
+					<option value="date" >Ordenar por mais recente</option>
+					<option value="price" >Ordenar por preço: menor para maior</option>
+					<option value="price-desc" >Ordenar por preço: maior para menor</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-57 status-publish first instock product_cat-produtos-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Agua Sanitária" href="http://45.178.111.19/wordpress/index.php/product/agua-sanitaria/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Produtos de Limpeza                </a>
+            </span>
+                <h3><a title="Agua Sanitária" href="http://45.178.111.19/wordpress/index.php/product/agua-sanitaria/">Agua Sanitária</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=57" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="57" data-product_sku="" aria-label="Adicionar &ldquo;Agua Sanitária&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Agua Sanitária" href="http://45.178.111.19/wordpress/index.php/product/agua-sanitaria/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>4,00</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-52 status-publish instock product_cat-outros has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Agua mineral &#8211; Copo c/ 200ml" href="http://45.178.111.19/wordpress/index.php/product/agua-mineral-copo-c-200ml/">
+            <img width="248" height="203" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Agua-mineral-Copo-c-200ml2-e1610823694713.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Outros                </a>
+            </span>
+                <h3><a title="Agua mineral &#8211; Copo c/ 200ml" href="http://45.178.111.19/wordpress/index.php/product/agua-mineral-copo-c-200ml/">Agua mineral &#8211; Copo c/ 200ml</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=52" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="52" data-product_sku="" aria-label="Adicionar &ldquo;Agua mineral - Copo c/ 200ml&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Agua mineral &#8211; Copo c/ 200ml" href="http://45.178.111.19/wordpress/index.php/product/agua-mineral-copo-c-200ml/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>1,00</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-67 status-publish instock product_cat-higiene has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Álcool gel 70º" href="http://45.178.111.19/wordpress/index.php/product/alcool-gel-70o/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Higiene                </a>
+            </span>
+                <h3><a title="Álcool gel 70º" href="http://45.178.111.19/wordpress/index.php/product/alcool-gel-70o/">Álcool gel 70º</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=67" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="67" data-product_sku="" aria-label="Adicionar &ldquo;Álcool gel 70º&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Álcool gel 70º" href="http://45.178.111.19/wordpress/index.php/product/alcool-gel-70o/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>7,45</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-149 status-publish last instock product_cat-descartaveis product_cat-higiene has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Papel toalha em bobina" href="http://45.178.111.19/wordpress/index.php/product/papel-toalha-em-bobina/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-e1611082476234.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Descartáveis                </a>
+            </span>
+                <h3><a title="Papel toalha em bobina" href="http://45.178.111.19/wordpress/index.php/product/papel-toalha-em-bobina/">Papel toalha em bobina</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=149" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="149" data-product_sku="" aria-label="Adicionar &ldquo;Papel toalha em bobina&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Papel toalha em bobina" href="http://45.178.111.19/wordpress/index.php/product/papel-toalha-em-bobina/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>59,90</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-55 status-publish first instock product_cat-outros has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+        <div class="new-label new-top-right">Sale!</div>                        <a class="product-image" title="Agua mineral &#8211; 20 litros" href="http://45.178.111.19/wordpress/index.php/product/agua-mineral-20-litros/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-174x175.jpg 174w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-e1610823876979.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Outros                </a>
+            </span>
+                <h3><a title="Agua mineral &#8211; 20 litros" href="http://45.178.111.19/wordpress/index.php/product/agua-mineral-20-litros/">Agua mineral &#8211; 20 litros</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=55" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="55" data-product_sku="" aria-label="Adicionar &ldquo;Agua mineral - 20 litros&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Agua mineral &#8211; 20 litros" href="http://45.178.111.19/wordpress/index.php/product/agua-mineral-20-litros/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>7,00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,00</bdi></span></ins></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-59 status-publish instock product_cat-produtos-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Álcool liquido 70%" href="http://45.178.111.19/wordpress/index.php/product/alcool-liquido-70/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-e1610824977818.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Produtos de Limpeza                </a>
+            </span>
+                <h3><a title="Álcool liquido 70%" href="http://45.178.111.19/wordpress/index.php/product/alcool-liquido-70/">Álcool liquido 70%</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=59" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="59" data-product_sku="" aria-label="Adicionar &ldquo;Álcool liquido 70%&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Álcool liquido 70%" href="http://45.178.111.19/wordpress/index.php/product/alcool-liquido-70/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,00</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-103 status-publish instock product_cat-materiais-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Escovão de plástico" href="http://45.178.111.19/wordpress/index.php/product/escovao-de-plastico/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-e1610987317116.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Materiais de Limpeza                </a>
+            </span>
+                <h3><a title="Escovão de plástico" href="http://45.178.111.19/wordpress/index.php/product/escovao-de-plastico/">Escovão de plástico</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=103" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="103" data-product_sku="" aria-label="Adicionar &ldquo;Escovão de plástico&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Escovão de plástico" href="http://45.178.111.19/wordpress/index.php/product/escovao-de-plastico/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>3,63</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-71 status-publish last instock product_cat-materiais-de-limpeza product_cat-outros has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Balde de 100L com tampa" href="http://45.178.111.19/wordpress/index.php/product/balde-de-100l-com-tampa/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-e1610826801640.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Outros                </a>
+            </span>
+                <h3><a title="Balde de 100L com tampa" href="http://45.178.111.19/wordpress/index.php/product/balde-de-100l-com-tampa/">Balde de 100L com tampa</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=71" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="71" data-product_sku="" aria-label="Adicionar &ldquo;Balde de 100L com tampa&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Balde de 100L com tampa" href="http://45.178.111.19/wordpress/index.php/product/balde-de-100l-com-tampa/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>12,00</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-69 status-publish first instock product_cat-materiais-de-limpeza product_cat-outros has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Balde de 60L com tampa" href="http://45.178.111.19/wordpress/index.php/product/balde-de-60l-com-tampa/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-768x768.png 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-175x175.png 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-600x600.png 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-100x100.png 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-e1610826691375.png 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Outros                </a>
+            </span>
+                <h3><a title="Balde de 60L com tampa" href="http://45.178.111.19/wordpress/index.php/product/balde-de-60l-com-tampa/">Balde de 60L com tampa</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=69" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="69" data-product_sku="" aria-label="Adicionar &ldquo;Balde de 60L com tampa&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Balde de 60L com tampa" href="http://45.178.111.19/wordpress/index.php/product/balde-de-60l-com-tampa/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>9,50</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-62 status-publish instock product_cat-produtos-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Álcool Liquido 96%" href="http://45.178.111.19/wordpress/index.php/product/alcool-liquido-96/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-e1610825180397.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Produtos de Limpeza                </a>
+            </span>
+                <h3><a title="Álcool Liquido 96%" href="http://45.178.111.19/wordpress/index.php/product/alcool-liquido-96/">Álcool Liquido 96%</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=62" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="62" data-product_sku="CX" aria-label="Adicionar &ldquo;Álcool Liquido 96%&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Álcool Liquido 96%" href="http://45.178.111.19/wordpress/index.php/product/alcool-liquido-96/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>5,60</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-145 status-publish instock product_cat-descartaveis product_cat-higiene has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Papel higiênico folha simples &#8211; 10 x 30m" href="http://45.178.111.19/wordpress/index.php/product/papel-higienico-folha-simples-10-x-30m/">
+            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-768x768.png 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-175x175.png 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-600x600.png 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-100x100.png 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-e1611082033229.png 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Descartáveis                </a>
+            </span>
+                <h3><a title="Papel higiênico folha simples &#8211; 10 x 30m" href="http://45.178.111.19/wordpress/index.php/product/papel-higienico-folha-simples-10-x-30m/">Papel higiênico folha simples &#8211; 10 x 30m</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=145" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="145" data-product_sku="" aria-label="Adicionar &ldquo;Papel higiênico folha simples - 10 x 30m&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Papel higiênico folha simples &#8211; 10 x 30m" href="http://45.178.111.19/wordpress/index.php/product/papel-higienico-folha-simples-10-x-30m/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>3,90</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-162 status-publish last instock product_cat-materiais-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Esponja dupla face" href="http://45.178.111.19/wordpress/index.php/product/esponja-dupla-face/">
+            <img width="225" height="225" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/esponja-duka-face-e1611087137338.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Materiais de Limpeza                </a>
+            </span>
+                <h3><a title="Esponja dupla face" href="http://45.178.111.19/wordpress/index.php/product/esponja-dupla-face/">Esponja dupla face</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=162" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="162" data-product_sku="" aria-label="Adicionar &ldquo;Esponja dupla face&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Esponja dupla face" href="http://45.178.111.19/wordpress/index.php/product/esponja-dupla-face/">
+                View Details            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>1,20</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+</ul>
+<nav class="woocommerce-pagination">
+	<ul class='page-numbers'>
+	<li><span aria-current="page" class="page-numbers current">1</span></li>
+	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/index.php/page/2/">2</a></li>
+	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/index.php/page/3/">3</a></li>
+	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/index.php/page/4/">4</a></li>
+	<li><a class="next page-numbers" href="http://45.178.111.19/wordpress/index.php/page/2/">&rarr;</a></li>
+</ul>
+</nav>
+            </main><!-- #main -->
+        </div><!-- #primary -->
+    		<aside id="secondaryright" class="widget-area" role="complementary">
+			<section id="woocommerce_widget_cart-7" class="widget clearfix woocommerce widget_shopping_cart"><h3 class="widget-title">Carrinho</h3><div class="widget_shopping_cart_content"></div></section><section id="search-3" class="widget clearfix widget_search"><form role="search" method="get" class="search-form" action="http://45.178.111.19/wordpress/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></section><section id="woocommerce_top_rated_products-3" class="widget clearfix woocommerce widget_top_rated_products"><h3 class="widget-title">Produtos bem avaliados</h3><ul class="product_list_widget"><li>
+	
+	<a href="http://45.178.111.19/wordpress/index.php/product/agua-mineral-copo-c-200ml/">
+		<img width="248" height="203" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Agua-mineral-Copo-c-200ml2-e1610823694713.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" />		<span class="product-title">Agua mineral - Copo c/ 200ml</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>1,00</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://45.178.111.19/wordpress/index.php/product/pa-de-lixo-de-plastico/">
+		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-e1611076601573.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Pá de lixo de plástico</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,56</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://45.178.111.19/wordpress/index.php/product/cera-liquida-incolor-5-litros/">
+		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-e1610830120457.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Cera liquida incolor 5 litros</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26,56</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://45.178.111.19/wordpress/index.php/product/porta-papel-higienico/">
+		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/porta-papel-higienico-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/porta-papel-higienico-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/porta-papel-higienico-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/porta-papel-higienico-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/porta-papel-higienico-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/porta-papel-higienico-e1611085899511.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Porta papel higiênico</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>19,50</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://45.178.111.19/wordpress/index.php/product/despenseira-para-copo-de-agua-e-cafe/">
+		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/despenser-para-copo-de-agura-e-cafe-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/despenser-para-copo-de-agura-e-cafe-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/despenser-para-copo-de-agura-e-cafe-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/despenser-para-copo-de-agura-e-cafe-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Despenseira para copo de agua e café</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>35,80</bdi></span>
+	</li>
+</ul></section>		</aside><!-- #secondaryright -->
+		
+</div><!-- #content -->
+
+		
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+						
+		<div class="bottom-footer-wrap clearfix">
+
+			<div class="store-container">
+
+				<div class="site-info">
+											Um site configurado e parametrizado        por Willian de Oliveira Marques Tel: 75 9 9227 4008, E-mail: willianmarques_fsa@hotmail.com.	
+					 WordPress Theme: <a href=" https://accesspressthemes.com/wordpress-themes/storevilla/ " target="_blank">StoreVilla</a> 				</div><!-- .site-info -->
+			    <div class="payment-accept">
+	      	      	      	      	      	      	    </div>
+  			
+			
+		</footer><!-- #colophon -->
+		
+	
+    <a href="#" class="scrollup"><i class="fa fa-angle-up" aria-hidden="true"></i> </a>
+
+</div><!-- #page -->
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"In\u00edcio","@id":"http:\/\/45.178.111.19\/wordpress"}}]},{"@context":"https:\/\/schema.org\/","@type":"WebSite","name":"Limpaky","url":"http:\/\/45.178.111.19\/wordpress","potentialAction":{"@type":"SearchAction","target":"http:\/\/45.178.111.19\/wordpress\/?s={search_term_string}&amp;post_type=product","query-input":"required name=search_term_string"}}]}</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wordpress\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrinho","cart_url":"http:\/\/45.178.111.19\/wordpress\/index.php\/carrinho\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.9.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wordpress\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.9.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wordpress\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_73decbaaa3c44ff7578d054f7b0603a7","fragment_name":"wc_fragments_73decbaaa3c44ff7578d054f7b0603a7","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.9.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/js/lightslider.js' id='lightslider-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/js/navigation.js?ver=1.3.9' id='storevilla-navigation-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/js/skip-link-focus-fix.js?ver=1.3.9' id='storevilla-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/js/retina.js?ver=1.3.9' id='retina-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-content/themes/storevilla/assets/js/common.js?ver=1.3.9' id='storevilla-common-js'></script>
+<script type='text/javascript' src='http://45.178.111.19/wordpress/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: 45.178.111.19 @ 2021-01-21 15:43:44 by W3 Total Cache
+-->
