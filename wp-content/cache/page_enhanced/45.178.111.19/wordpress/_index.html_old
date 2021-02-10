@@ -283,7 +283,7 @@ img.emoji {
 										<div class="advance-search">
 							<form role="search" method="get" id="searchform"  action="http://45.178.111.19/wordpress/">
 						 <div class="sv_search_wrap">
-                            <select class="sv_search_product false" name="term"><option value="">Todas as categorias</option><optgroup class="sv-advance-search" label="Todas as categorias"><option  value="descartaveis">Descartáveis</option><option  value="higiene">Higiene</option><option  value="materiais-de-limpeza">Materiais de Limpeza</option><option  value="outros">Outros</option><option  value="produtos-de-limpeza">Produtos de Limpeza</option><option  value="recipientes">Recipientes</option></optgroup></select>
+                            <select class="sv_search_product false" name="term"><option value="">Todas as categorias</option><optgroup class="sv-advance-search" label="Todas as categorias"><option  value="descartveis">Descartaveis</option><option  value="hospitalares">Hospitalares</option><option  value="materiais-de-limpeza">Materiais de Limpeza</option><option  value="outros">Outros</option><option  value="recipientes-plasticos">Recipientes/Plasticos</option></optgroup></select>
 						 </div>
                          <div class="sv_search_form">
 							 <input type="text" value="" name="s" id="s" placeholder="Um formulário de pesquisa para sua loja." />
@@ -304,10 +304,10 @@ img.emoji {
 					<span></span>
 				</div>
 				<div class="primary-navigation"><ul id="primary-menu" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-46"><a href="http://45.178.111.19/wordpress/" aria-current="page">Todos</a></li>
-<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="http://45.178.111.19/wordpress/?product_cat=produtos-de-limpeza">Produtos de Limpeza</a></li>
-<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://45.178.111.19/wordpress/?product_cat=materiais-de-limpeza">Materiais de Limpeza</a></li>
-<li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="http://45.178.111.19/wordpress/?product_cat=descartaveis">Descartaveis</a></li>
-<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="http://45.178.111.19/wordpress/?product_cat=higiene">Higiene</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="http://45.178.111.19/wordpress/?product_cat=materiais-de-limpeza">Materiais de Limpeza</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://45.178.111.19/wordpress/?product_cat=recipientes-plasticos">Recipientes/Plásticos</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="http://45.178.111.19/wordpress/?product_cat=descartveis">Descartaveis</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="http://45.178.111.19/wordpress/?product_cat=hospitalares">Hospitalares</a></li>
 <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="http://45.178.111.19/wordpress/?product_cat=outros">Outros</a></li>
 </ul></div>			</div>
 		</nav><!-- #site-navigation -->
@@ -322,7 +322,7 @@ img.emoji {
 	
 	</header>
 <div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Exibindo 1&ndash;12 de 48 resultados</p>
+	Exibindo 1&ndash;12 de 429 resultados</p>
 <form class="woocommerce-ordering" method="get">
 	<select name="orderby" class="orderby" aria-label="Pedido da loja">
 					<option value="popularity"  selected='selected'>Ordenar por popularidade</option>
@@ -334,325 +334,325 @@ img.emoji {
 	<input type="hidden" name="paged" value="1" />
 	</form>
 <ul class="products columns-4">
-<li class="product type-product post-52 status-publish first instock product_cat-outros has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-4610 status-publish first instock product_cat-outros shipping-taxable purchasable product-type-simple">
 	    <div class="item-img">          
         
-                        <a class="product-image" title="Agua mineral &#8211; Copo c/ 200ml" href="http://45.178.111.19/wordpress/?product=agua-mineral-copo-c-200ml">
-            <img width="248" height="203" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Agua-mineral-Copo-c-200ml2-e1610823694713.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />        </a>           
+                        <a class="product-image" title="Ventilador De Coluna 50 Cm &#8211; Marca : Arge" href="http://45.178.111.19/wordpress/?product=ventilador-de-coluna-50-cm-marca-arge">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
     </div>
     <div class="block-item-title">
                     <span>
                 <a href="">
                     Outros                </a>
             </span>
-                <h3><a title="Agua mineral &#8211; Copo c/ 200ml" href="http://45.178.111.19/wordpress/?product=agua-mineral-copo-c-200ml">Agua mineral &#8211; Copo c/ 200ml</a></h3>
+                <h3><a title="Ventilador De Coluna 50 Cm &#8211; Marca : Arge" href="http://45.178.111.19/wordpress/?product=ventilador-de-coluna-50-cm-marca-arge">Ventilador De Coluna 50 Cm &#8211; Marca : Arge</a></h3>
     </div>
     <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=52" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="52" data-product_sku="" aria-label="Adicionar &ldquo;Agua mineral - Copo c/ 200ml&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Agua mineral &#8211; Copo c/ 200ml" href="http://45.178.111.19/wordpress/?product=agua-mineral-copo-c-200ml">
+        <a href="?add-to-cart=4610" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4610" data-product_sku="VENTILADOR DE COLUNA 50 cm - MARCA : ARGE" aria-label="Adicionar &ldquo;Ventilador De Coluna 50 Cm - Marca : Arge&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Ventilador De Coluna 50 Cm &#8211; Marca : Arge" href="http://45.178.111.19/wordpress/?product=ventilador-de-coluna-50-cm-marca-arge">
                 Detalhes            </a>
         
     </div>
     <div class="product-price-wrap">
         
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>1,00</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>236,80</bdi></span></span>
         
     </div>
 </a>    <ul class="add-to-links">
             </ul>
 </li>
-<li class="product type-product post-57 status-publish instock product_cat-produtos-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-4609 status-publish instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
 	    <div class="item-img">          
         
-                        <a class="product-image" title="Agua Sanitária" href="http://45.178.111.19/wordpress/?product=agua-sanitaria">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/agura-sanitari-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
-    </div>
-    <div class="block-item-title">
-                    <span>
-                <a href="">
-                    Produtos de Limpeza                </a>
-            </span>
-                <h3><a title="Agua Sanitária" href="http://45.178.111.19/wordpress/?product=agua-sanitaria">Agua Sanitária</a></h3>
-    </div>
-    <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=57" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="57" data-product_sku="" aria-label="Adicionar &ldquo;Agua Sanitária&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Agua Sanitária" href="http://45.178.111.19/wordpress/?product=agua-sanitaria">
-                Detalhes            </a>
-        
-    </div>
-    <div class="product-price-wrap">
-        
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>4,00</bdi></span></span>
-        
-    </div>
-</a>    <ul class="add-to-links">
-            </ul>
-</li>
-<li class="product type-product post-67 status-publish instock product_cat-higiene has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	    <div class="item-img">          
-        
-                        <a class="product-image" title="Álcool gel 70º" href="http://45.178.111.19/wordpress/?product=alcool-gel-70o">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Alcool-gel-70o-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
-    </div>
-    <div class="block-item-title">
-                    <span>
-                <a href="">
-                    Higiene                </a>
-            </span>
-                <h3><a title="Álcool gel 70º" href="http://45.178.111.19/wordpress/?product=alcool-gel-70o">Álcool gel 70º</a></h3>
-    </div>
-    <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=67" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="67" data-product_sku="" aria-label="Adicionar &ldquo;Álcool gel 70º&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Álcool gel 70º" href="http://45.178.111.19/wordpress/?product=alcool-gel-70o">
-                Detalhes            </a>
-        
-    </div>
-    <div class="product-price-wrap">
-        
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>7,45</bdi></span></span>
-        
-    </div>
-</a>    <ul class="add-to-links">
-            </ul>
-</li>
-<li class="product type-product post-149 status-publish last instock product_cat-descartaveis product_cat-higiene has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	    <div class="item-img">          
-        
-                        <a class="product-image" title="Papel toalha em bobina" href="http://45.178.111.19/wordpress/?product=papel-toalha-em-bobina">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-em-bobina-e1611082476234.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
-    </div>
-    <div class="block-item-title">
-                    <span>
-                <a href="">
-                    Descartáveis                </a>
-            </span>
-                <h3><a title="Papel toalha em bobina" href="http://45.178.111.19/wordpress/?product=papel-toalha-em-bobina">Papel toalha em bobina</a></h3>
-    </div>
-    <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=149" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="149" data-product_sku="" aria-label="Adicionar &ldquo;Papel toalha em bobina&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Papel toalha em bobina" href="http://45.178.111.19/wordpress/?product=papel-toalha-em-bobina">
-                Detalhes            </a>
-        
-    </div>
-    <div class="product-price-wrap">
-        
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>59,90</bdi></span></span>
-        
-    </div>
-</a>    <ul class="add-to-links">
-            </ul>
-</li>
-<li class="product type-product post-55 status-publish first instock product_cat-outros has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-	    <div class="item-img">          
-        
-        <div class="new-label new-top-right">Sale!</div>                        <a class="product-image" title="Agua mineral &#8211; 20 litros" href="http://45.178.111.19/wordpress/?product=agua-mineral-20-litros">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-174x175.jpg 174w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Recipientes-1-e1610823876979.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
-    </div>
-    <div class="block-item-title">
-                    <span>
-                <a href="">
-                    Outros                </a>
-            </span>
-                <h3><a title="Agua mineral &#8211; 20 litros" href="http://45.178.111.19/wordpress/?product=agua-mineral-20-litros">Agua mineral &#8211; 20 litros</a></h3>
-    </div>
-    <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=55" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="55" data-product_sku="" aria-label="Adicionar &ldquo;Agua mineral - 20 litros&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Agua mineral &#8211; 20 litros" href="http://45.178.111.19/wordpress/?product=agua-mineral-20-litros">
-                Detalhes            </a>
-        
-    </div>
-    <div class="product-price-wrap">
-        
-	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>7,00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,00</bdi></span></ins></span>
-        
-    </div>
-</a>    <ul class="add-to-links">
-            </ul>
-</li>
-<li class="product type-product post-59 status-publish instock product_cat-produtos-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	    <div class="item-img">          
-        
-                        <a class="product-image" title="Álcool liquido 70%" href="http://45.178.111.19/wordpress/?product=alcool-liquido-70">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-70-e1610824977818.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
-    </div>
-    <div class="block-item-title">
-                    <span>
-                <a href="">
-                    Produtos de Limpeza                </a>
-            </span>
-                <h3><a title="Álcool liquido 70%" href="http://45.178.111.19/wordpress/?product=alcool-liquido-70">Álcool liquido 70%</a></h3>
-    </div>
-    <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=59" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="59" data-product_sku="" aria-label="Adicionar &ldquo;Álcool liquido 70%&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Álcool liquido 70%" href="http://45.178.111.19/wordpress/?product=alcool-liquido-70">
-                Detalhes            </a>
-        
-    </div>
-    <div class="product-price-wrap">
-        
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,00</bdi></span></span>
-        
-    </div>
-</a>    <ul class="add-to-links">
-            </ul>
-</li>
-<li class="product type-product post-103 status-publish instock product_cat-materiais-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	    <div class="item-img">          
-        
-                        <a class="product-image" title="Escovão de plástico" href="http://45.178.111.19/wordpress/?product=escovao-de-plastico">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/escovao-de-plastico-e1610987317116.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+                        <a class="product-image" title="Vassourinha De Pia?ava" href="http://45.178.111.19/wordpress/?product=vassourinha-de-piaava">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
     </div>
     <div class="block-item-title">
                     <span>
                 <a href="">
                     Materiais de Limpeza                </a>
             </span>
-                <h3><a title="Escovão de plástico" href="http://45.178.111.19/wordpress/?product=escovao-de-plastico">Escovão de plástico</a></h3>
+                <h3><a title="Vassourinha De Pia?ava" href="http://45.178.111.19/wordpress/?product=vassourinha-de-piaava">Vassourinha De Pia?ava</a></h3>
     </div>
     <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=103" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="103" data-product_sku="" aria-label="Adicionar &ldquo;Escovão de plástico&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Escovão de plástico" href="http://45.178.111.19/wordpress/?product=escovao-de-plastico">
+        <a href="?add-to-cart=4609" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4609" data-product_sku="VASSOURINHA DE PIA?AVA" aria-label="Adicionar &ldquo;Vassourinha De Pia?ava&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassourinha De Pia?ava" href="http://45.178.111.19/wordpress/?product=vassourinha-de-piaava">
                 Detalhes            </a>
         
     </div>
     <div class="product-price-wrap">
         
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>3,63</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>1,20</bdi></span></span>
         
     </div>
 </a>    <ul class="add-to-links">
             </ul>
 </li>
-<li class="product type-product post-71 status-publish last instock product_cat-materiais-de-limpeza product_cat-outros has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-4608 status-publish instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
 	    <div class="item-img">          
         
-                        <a class="product-image" title="Balde de 100L com tampa" href="http://45.178.111.19/wordpress/?product=balde-de-100l-com-tampa">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Balde-de-100L-com-tampa-e1610826801640.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+                        <a class="product-image" title="Vassourinha De Nylon" href="http://45.178.111.19/wordpress/?product=vassourinha-de-nylon">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
     </div>
     <div class="block-item-title">
                     <span>
                 <a href="">
-                    Outros                </a>
+                    Materiais de Limpeza                </a>
             </span>
-                <h3><a title="Balde de 100L com tampa" href="http://45.178.111.19/wordpress/?product=balde-de-100l-com-tampa">Balde de 100L com tampa</a></h3>
+                <h3><a title="Vassourinha De Nylon" href="http://45.178.111.19/wordpress/?product=vassourinha-de-nylon">Vassourinha De Nylon</a></h3>
     </div>
     <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=71" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="71" data-product_sku="" aria-label="Adicionar &ldquo;Balde de 100L com tampa&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Balde de 100L com tampa" href="http://45.178.111.19/wordpress/?product=balde-de-100l-com-tampa">
+        <a href="?add-to-cart=4608" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4608" data-product_sku="VASSOURINHA DE NYLON" aria-label="Adicionar &ldquo;Vassourinha De Nylon&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassourinha De Nylon" href="http://45.178.111.19/wordpress/?product=vassourinha-de-nylon">
                 Detalhes            </a>
         
     </div>
     <div class="product-price-wrap">
         
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>12,00</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>1,16</bdi></span></span>
         
     </div>
 </a>    <ul class="add-to-links">
             </ul>
 </li>
-<li class="product type-product post-69 status-publish first instock product_cat-materiais-de-limpeza product_cat-outros has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-4607 status-publish last instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
 	    <div class="item-img">          
         
-                        <a class="product-image" title="Balde de 60L com tampa" href="http://45.178.111.19/wordpress/?product=balde-de-60l-com-tampa">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-768x768.png 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-175x175.png 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-600x600.png 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-100x100.png 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Baldaer-com-tampa-de-60-e1610826691375.png 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+                        <a class="product-image" title="Vassoura Para Vaso Sanitario Com Estojo &#8211; Marca : Dalcin" href="http://45.178.111.19/wordpress/?product=vassoura-para-vaso-sanitario-com-estojo-marca-dalcin">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
     </div>
     <div class="block-item-title">
                     <span>
                 <a href="">
-                    Outros                </a>
+                    Materiais de Limpeza                </a>
             </span>
-                <h3><a title="Balde de 60L com tampa" href="http://45.178.111.19/wordpress/?product=balde-de-60l-com-tampa">Balde de 60L com tampa</a></h3>
+                <h3><a title="Vassoura Para Vaso Sanitario Com Estojo &#8211; Marca : Dalcin" href="http://45.178.111.19/wordpress/?product=vassoura-para-vaso-sanitario-com-estojo-marca-dalcin">Vassoura Para Vaso Sanitario Com Estojo &#8211; Marca : Dalcin</a></h3>
     </div>
     <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=69" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="69" data-product_sku="" aria-label="Adicionar &ldquo;Balde de 60L com tampa&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Balde de 60L com tampa" href="http://45.178.111.19/wordpress/?product=balde-de-60l-com-tampa">
+        <a href="?add-to-cart=4607" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4607" data-product_sku="VASSOURA PARA VASO SANITARIO COM ESTOJO - MARCA : DALCIN" aria-label="Adicionar &ldquo;Vassoura Para Vaso Sanitario Com Estojo - Marca : Dalcin&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura Para Vaso Sanitario Com Estojo &#8211; Marca : Dalcin" href="http://45.178.111.19/wordpress/?product=vassoura-para-vaso-sanitario-com-estojo-marca-dalcin">
                 Detalhes            </a>
         
     </div>
     <div class="product-price-wrap">
         
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>9,50</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,42</bdi></span></span>
         
     </div>
 </a>    <ul class="add-to-links">
             </ul>
 </li>
-<li class="product type-product post-62 status-publish instock product_cat-produtos-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-4606 status-publish first instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
 	    <div class="item-img">          
         
-                        <a class="product-image" title="Álcool Liquido 96%" href="http://45.178.111.19/wordpress/?product=alcool-liquido-96">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/alcool-liguido-96-e1610825180397.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+                        <a class="product-image" title="Vassoura De Pia?ava Refor?ada De 31 Furos" href="http://45.178.111.19/wordpress/?product=vassoura-de-piaava-reforada-de-31-furos">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
     </div>
     <div class="block-item-title">
                     <span>
                 <a href="">
-                    Produtos de Limpeza                </a>
+                    Materiais de Limpeza                </a>
             </span>
-                <h3><a title="Álcool Liquido 96%" href="http://45.178.111.19/wordpress/?product=alcool-liquido-96">Álcool Liquido 96%</a></h3>
+                <h3><a title="Vassoura De Pia?ava Refor?ada De 31 Furos" href="http://45.178.111.19/wordpress/?product=vassoura-de-piaava-reforada-de-31-furos">Vassoura De Pia?ava Refor?ada De 31 Furos</a></h3>
     </div>
     <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=62" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="62" data-product_sku="CX" aria-label="Adicionar &ldquo;Álcool Liquido 96%&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Álcool Liquido 96%" href="http://45.178.111.19/wordpress/?product=alcool-liquido-96">
+        <a href="?add-to-cart=4606" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4606" data-product_sku="VASSOURA DE PIA?AVA REFOR?ADA DE 31 FUROS " aria-label="Adicionar &ldquo;Vassoura De Pia?ava Refor?ada De 31 Furos&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura De Pia?ava Refor?ada De 31 Furos" href="http://45.178.111.19/wordpress/?product=vassoura-de-piaava-reforada-de-31-furos">
                 Detalhes            </a>
         
     </div>
     <div class="product-price-wrap">
         
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>5,60</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>7,49</bdi></span></span>
         
     </div>
 </a>    <ul class="add-to-links">
             </ul>
 </li>
-<li class="product type-product post-145 status-publish instock product_cat-descartaveis product_cat-higiene has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-4605 status-publish instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
 	    <div class="item-img">          
         
-                        <a class="product-image" title="Papel higiênico folha simples &#8211; 10 x 30m" href="http://45.178.111.19/wordpress/?product=papel-higienico-folha-simples-10-x-30m">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-768x768.png 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-175x175.png 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-600x600.png 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-100x100.png 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Papel-higienico-folha-simples-10-x-30m-e1611082033229.png 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+                        <a class="product-image" title="Vassoura De Pia?ava De 18 Furos" href="http://45.178.111.19/wordpress/?product=vassoura-de-piaava-de-18-furos">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
     </div>
     <div class="block-item-title">
                     <span>
                 <a href="">
-                    Descartáveis                </a>
+                    Materiais de Limpeza                </a>
             </span>
-                <h3><a title="Papel higiênico folha simples &#8211; 10 x 30m" href="http://45.178.111.19/wordpress/?product=papel-higienico-folha-simples-10-x-30m">Papel higiênico folha simples &#8211; 10 x 30m</a></h3>
+                <h3><a title="Vassoura De Pia?ava De 18 Furos" href="http://45.178.111.19/wordpress/?product=vassoura-de-piaava-de-18-furos">Vassoura De Pia?ava De 18 Furos</a></h3>
     </div>
     <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=145" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="145" data-product_sku="" aria-label="Adicionar &ldquo;Papel higiênico folha simples - 10 x 30m&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Papel higiênico folha simples &#8211; 10 x 30m" href="http://45.178.111.19/wordpress/?product=papel-higienico-folha-simples-10-x-30m">
+        <a href="?add-to-cart=4605" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4605" data-product_sku="VASSOURA DE PIA?AVA DE 18 FUROS " aria-label="Adicionar &ldquo;Vassoura De Pia?ava De 18 Furos&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura De Pia?ava De 18 Furos" href="http://45.178.111.19/wordpress/?product=vassoura-de-piaava-de-18-furos">
                 Detalhes            </a>
         
     </div>
     <div class="product-price-wrap">
         
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>3,90</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,25</bdi></span></span>
         
     </div>
 </a>    <ul class="add-to-links">
             </ul>
 </li>
-<li class="product type-product post-77 status-publish last instock product_cat-produtos-de-limpeza has-post-thumbnail shipping-taxable purchasable product-type-simple">
+<li class="product type-product post-4604 status-publish instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
 	    <div class="item-img">          
         
-                        <a class="product-image" title="Cera liquida incolor 5 litros" href="http://45.178.111.19/wordpress/?product=cera-liquida-incolor-5-litros">
-            <img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cera-liguida-incolor-5-litros-e1610830120457.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />        </a>           
+                        <a class="product-image" title="Vassoura De Pelo Sintetico De 60 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-60-cm-marca-san-marcus">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
     </div>
     <div class="block-item-title">
                     <span>
                 <a href="">
-                    Produtos de Limpeza                </a>
+                    Materiais de Limpeza                </a>
             </span>
-                <h3><a title="Cera liquida incolor 5 litros" href="http://45.178.111.19/wordpress/?product=cera-liquida-incolor-5-litros">Cera liquida incolor 5 litros</a></h3>
+                <h3><a title="Vassoura De Pelo Sintetico De 60 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-60-cm-marca-san-marcus">Vassoura De Pelo Sintetico De 60 Cm &#8211; Marca : San Marcus</a></h3>
     </div>
     <div class="product-button-wrap clearfix">
-        <a href="?add-to-cart=77" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="77" data-product_sku="" aria-label="Adicionar &ldquo;Cera liquida incolor 5 litros&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
-            <a class="villa-details" title="Cera liquida incolor 5 litros" href="http://45.178.111.19/wordpress/?product=cera-liquida-incolor-5-litros">
+        <a href="?add-to-cart=4604" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4604" data-product_sku="VASSOURA DE PELO SINTETICO DE 60 cm - MARCA : SAN MARCUS" aria-label="Adicionar &ldquo;Vassoura De Pelo Sintetico De 60 Cm - Marca : San Marcus&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura De Pelo Sintetico De 60 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-60-cm-marca-san-marcus">
                 Detalhes            </a>
         
     </div>
     <div class="product-price-wrap">
         
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26,56</bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>16,64</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-4603 status-publish last instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Vassoura De Pelo Sintetico De 40 Cm &#8211; San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-40-cm-san-marcus">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Materiais de Limpeza                </a>
+            </span>
+                <h3><a title="Vassoura De Pelo Sintetico De 40 Cm &#8211; San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-40-cm-san-marcus">Vassoura De Pelo Sintetico De 40 Cm &#8211; San Marcus</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=4603" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4603" data-product_sku="VASSOURA DE PELO SINTETICO DE 40 cm - SAN MARCUS" aria-label="Adicionar &ldquo;Vassoura De Pelo Sintetico De 40 Cm - San Marcus&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura De Pelo Sintetico De 40 Cm &#8211; San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-40-cm-san-marcus">
+                Detalhes            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>10,57</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-4602 status-publish first instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Vassoura De Pelo Sintetico De 30 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-30-cm-marca-san-marcus">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Materiais de Limpeza                </a>
+            </span>
+                <h3><a title="Vassoura De Pelo Sintetico De 30 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-30-cm-marca-san-marcus">Vassoura De Pelo Sintetico De 30 Cm &#8211; Marca : San Marcus</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=4602" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4602" data-product_sku="VASSOURA DE PELO SINTETICO DE 30 cm - MARCA : SAN MARCUS" aria-label="Adicionar &ldquo;Vassoura De Pelo Sintetico De 30 Cm - Marca : San Marcus&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura De Pelo Sintetico De 30 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-sintetico-de-30-cm-marca-san-marcus">
+                Detalhes            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>7,09</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-4601 status-publish outofstock product_cat-descartveis shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Vassoura De Pelo Rigido De 60 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-rigido-de-60-cm-marca-san-marcus">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Descartaveis                </a>
+            </span>
+                <h3><a title="Vassoura De Pelo Rigido De 60 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-rigido-de-60-cm-marca-san-marcus">Vassoura De Pelo Rigido De 60 Cm &#8211; Marca : San Marcus</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-rigido-de-60-cm-marca-san-marcus" data-quantity="1" class="button product_type_simple" data-product_id="4601" data-product_sku="VASSOURA DE PELO RIGIDO DE 60 CM - MARCA : SAN MARCUS " aria-label="Leia mais sobre &ldquo;Vassoura De Pelo Rigido De 60 Cm - Marca : San Marcus&rdquo;" rel="nofollow">Leia mais</a>        
+            <a class="villa-details" title="Vassoura De Pelo Rigido De 60 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-rigido-de-60-cm-marca-san-marcus">
+                Detalhes            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>28,21</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-4600 status-publish instock product_cat-hospitalares shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Vassoura De Pelo Rigido De 40 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-rigido-de-40-cm-marca-san-marcus">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Hospitalares                </a>
+            </span>
+                <h3><a title="Vassoura De Pelo Rigido De 40 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-rigido-de-40-cm-marca-san-marcus">Vassoura De Pelo Rigido De 40 Cm &#8211; Marca : San Marcus</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=4600" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4600" data-product_sku="VASSOURA DE PELO RIGIDO DE 40 CM - MARCA : SAN MARCUS " aria-label="Adicionar &ldquo;Vassoura De Pelo Rigido De 40 Cm - Marca : San Marcus&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura De Pelo Rigido De 40 Cm &#8211; Marca : San Marcus" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-rigido-de-40-cm-marca-san-marcus">
+                Detalhes            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>21,15</bdi></span></span>
+        
+    </div>
+</a>    <ul class="add-to-links">
+            </ul>
+</li>
+<li class="product type-product post-4599 status-publish last instock product_cat-materiais-de-limpeza shipping-taxable purchasable product-type-simple">
+	    <div class="item-img">          
+        
+                        <a class="product-image" title="Vassoura De Pelo Plumada" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-plumada">
+            <img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão" />        </a>           
+    </div>
+    <div class="block-item-title">
+                    <span>
+                <a href="">
+                    Materiais de Limpeza                </a>
+            </span>
+                <h3><a title="Vassoura De Pelo Plumada" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-plumada">Vassoura De Pelo Plumada</a></h3>
+    </div>
+    <div class="product-button-wrap clearfix">
+        <a href="?add-to-cart=4599" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4599" data-product_sku="VASSOURA DE PELO PLUMADA" aria-label="Adicionar &ldquo;Vassoura De Pelo Plumada&rdquo; no seu carrinho" rel="nofollow">Comprar</a>        
+            <a class="villa-details" title="Vassoura De Pelo Plumada" href="http://45.178.111.19/wordpress/?product=vassoura-de-pelo-plumada">
+                Detalhes            </a>
+        
+    </div>
+    <div class="product-price-wrap">
+        
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>7,61</bdi></span></span>
         
     </div>
 </a>    <ul class="add-to-links">
@@ -665,6 +665,10 @@ img.emoji {
 	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/?paged=2">2</a></li>
 	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/?paged=3">3</a></li>
 	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/?paged=4">4</a></li>
+	<li><span class="page-numbers dots">&hellip;</span></li>
+	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/?paged=34">34</a></li>
+	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/?paged=35">35</a></li>
+	<li><a class="page-numbers" href="http://45.178.111.19/wordpress/?paged=36">36</a></li>
 	<li><a class="next page-numbers" href="http://45.178.111.19/wordpress/?paged=2">&rarr;</a></li>
 </ul>
 </nav>
@@ -679,48 +683,48 @@ img.emoji {
 				<input type="submit" class="search-submit" value="Pesquisar" />
 			</form></section><section id="woocommerce_top_rated_products-3" class="widget clearfix woocommerce widget_top_rated_products"><h3 class="widget-title">Produtos bem avaliados</h3><ul class="product_list_widget"><li>
 	
-	<a href="http://45.178.111.19/wordpress/?product=cesto-para-lixo-vai-e-vem">
-		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cesto-para-lixi-Vai-e-vem-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cesto-para-lixi-Vai-e-vem-300x300.png 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cesto-para-lixi-Vai-e-vem-150x150.png 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/cesto-para-lixi-Vai-e-vem-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Cesto para lixo (Vai e vem)</span>
+	<a href="http://45.178.111.19/wordpress/?product=alcool-gel-70-de-05-litros-marca-brascom">
+		<img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão"/>		<span class="product-title">Alcool Gel 70% De 05 Litros - Marca : Brascom</span>
 	</a>
 
 				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>32,00</bdi></span>
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>50,75</bdi></span>
 	</li>
 <li>
 	
-	<a href="http://45.178.111.19/wordpress/?product=papel-toalha-interfoliado-creme">
-		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/papel-toalha-interfolhado-creme-e1611082824111.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" />		<span class="product-title">Papel toalha interfoliado creme</span>
+	<a href="http://45.178.111.19/wordpress/?product=base-para-desinfentante-de-200-ml">
+		<img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão"/>		<span class="product-title">Base Para Desinfentante De 200 Ml</span>
 	</a>
 
 				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>15,60</bdi></span>
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>3,62</bdi></span>
 	</li>
 <li>
 	
-	<a href="http://45.178.111.19/wordpress/?product=desentupidor">
-		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/desintupidor-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/desintupidor-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/desintupidor-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/desintupidor-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/desintupidor-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/desintupidor-e1610986471808.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Desentupidor</span>
+	<a href="http://45.178.111.19/wordpress/?product=copo-descartavel-de-200-ml-transparente-pp-marca-copobel-pacote-com-100-unidades">
+		<img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão"/>		<span class="product-title">Copo Descartavel De 200 Ml Transparente Pp - Marca : Copobel - Pacote Com 100 Unidades</span>
 	</a>
 
 				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>2,50</bdi></span>
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>3,72</bdi></span>
 	</li>
 <li>
 	
-	<a href="http://45.178.111.19/wordpress/?product=agua-mineral-copo-c-200ml">
-		<img width="248" height="203" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/Agua-mineral-Copo-c-200ml2-e1610823694713.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" />		<span class="product-title">Agua mineral - Copo c/ 200ml</span>
+	<a href="http://45.178.111.19/wordpress/?product=detergente-de-500-ml-marca-ype">
+		<img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão"/>		<span class="product-title">Detergente De 500 Ml - Marca : Ype</span>
 	</a>
 
 				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>1,00</bdi></span>
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>2,45</bdi></span>
 	</li>
 <li>
 	
-	<a href="http://45.178.111.19/wordpress/?product=pa-de-lixo-de-plastico">
-		<img width="300" height="300" src="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-300x300.jpg 300w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-150x150.jpg 150w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-768x768.jpg 768w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-175x175.jpg 175w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-600x600.jpg 600w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-100x100.jpg 100w, http://45.178.111.19/wordpress/wp-content/uploads/2021/01/pa-de-lixo-de-plastico-e1611076601573.jpg 306w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Pá de lixo de plástico</span>
+	<a href="http://45.178.111.19/wordpress/?product=fio-de-sutura-categute-cromado-0-marca-technofio-caixa-com-24-unidades">
+		<img src="http://45.178.111.19/wordpress/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão"/>		<span class="product-title">Fio De Sutura Categute Cromado 0 - Marca : Technofio - Caixa Com 24 Unidades</span>
 	</a>
 
 				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>6,56</bdi></span>
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>103,34</bdi></span>
 	</li>
 </ul></section>		</aside><!-- #secondaryright -->
 		
@@ -790,5 +794,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced 
 
-Served from: 45.178.111.19 @ 2021-02-01 18:26:58 by W3 Total Cache
+Served from: 45.178.111.19 @ 2021-02-06 15:45:50 by W3 Total Cache
 -->
