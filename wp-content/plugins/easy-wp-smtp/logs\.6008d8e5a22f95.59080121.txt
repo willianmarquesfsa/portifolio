@@ -1,0 +1,32 @@
+Headers: , To: anderson.duarte@hotmail.com, Subject: [Limpaky] Senha alterada
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: SILAJULIANE563@GMAIL.COM, Subject: Sua conta em Limpaky foi criada!
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: willianmarques_fsa@hotmail.com, Subject: [Limpaky]: Novo pedido #4719
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: SILAJULIANE563@GMAIL.COM, Subject: Seu pedido em Limpaky foi recebido!
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: anderson.duarte@hotmail.com, Subject: Solicitação de redefinição de senha em Limpaky
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: anderson.duarte@hotmail.com, Subject: Solicitação de redefinição de senha em Limpaky
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: willianmarques_fsa@hotmail.com, Subject: Solicitação de redefinição de senha em Limpaky
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: anderson.duarte@hotmail.com, Subject: [Limpaky] E-mail alterado
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: willianomarques@gmail.com, Subject: Solicitação de redefinição de senha em Limpaky
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: willianomarques@gmail.com, Subject: [Limpaky] E-mail alterado
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: willianomarques@gmail.com, Subject: Sua conta em Limpaky foi criada!
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: limpaky@uol.com.br, Subject: [Limpaky]: Novo pedido #4727
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: willianomarques@gmail.com, Subject: Seu pedido em Limpaky foi recebido!
+*** SMTP Error: Could not authenticate. ***
+Headers: , To: willianomarques@gmail.com, Subject: [Limpaky] E-mail alterado
+Headers: , To: willianomarques@gmail.com, Subject: Sua conta em Limpaky foi criada!
+Headers: , To: willianmarques_fsa@hotmail.com, Subject: [Limpaky] Produto com estoque baixo
+Headers: , To: willianmarques_fsa@hotmail.com, Subject: [Limpaky] Produto com estoque baixo
+Headers: , To: limpaky@uol.com.br, Subject: [Limpaky]: Novo pedido #4731
+Headers: , To: willianomarques@gmail.com, Subject: Seu pedido em Limpaky foi recebido!

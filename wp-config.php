@@ -26,10 +26,10 @@ define('DB_NAME', 'wordpress685');
 define('DB_USER', 'wordpressuser685');
 
 /** MySQL database password */
-define('DB_PASSWORD', '&AJRpDK^d]rI');
+define('DB_PASSWORD', 't4k)WBF[D2u]3');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql380.umbler.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
