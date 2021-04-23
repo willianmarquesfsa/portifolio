@@ -138,7 +138,7 @@
     "pgcache.debug": false,
     "pgcache.debug_purge": false,
     "pgcache.engine": "file_generic",
-    "pgcache.file.gc": 3600,
+    "pgcache.file.gc": 3600000,
     "pgcache.file.nfs": false,
     "pgcache.file.locking": false,
     "pgcache.lifetime": 3600,
@@ -181,24 +181,40 @@
         "wp-links-opml.php",
         "wp-locations.php"
     ],
-    "pgcache.accept.qs": [],
+    "pgcache.accept.qs": [
+        ""
+    ],
     "pgcache.late_init": false,
     "pgcache.late_caching": false,
     "pgcache.mirrors.enabled": false,
-    "pgcache.mirrors.home_urls": [],
+    "pgcache.mirrors.home_urls": [
+        ""
+    ],
     "pgcache.reject.front_page": false,
     "pgcache.reject.logged": true,
     "pgcache.reject.logged_roles": false,
-    "pgcache.reject.roles": [],
+    "pgcache.reject.roles": [
+        ""
+    ],
     "pgcache.reject.uri": [
         "wp-.*\\.php",
         "index\\.php"
     ],
-    "pgcache.reject.categories": [],
-    "pgcache.reject.tags": [],
-    "pgcache.reject.authors": [],
-    "pgcache.reject.custom": [],
-    "pgcache.reject.ua": [],
+    "pgcache.reject.categories": [
+        ""
+    ],
+    "pgcache.reject.tags": [
+        ""
+    ],
+    "pgcache.reject.authors": [
+        ""
+    ],
+    "pgcache.reject.custom": [
+        ""
+    ],
+    "pgcache.reject.ua": [
+        ""
+    ],
     "pgcache.reject.cookie": [
         "wptouch_switch_toggle"
     ],
@@ -220,8 +236,10 @@
         "rss2"
     ],
     "pgcache.purge.postpages_limit": 10,
-    "pgcache.purge.pages": [],
-    "pgcache.purge.sitemap_regex": "([a-z0-9_\\-]*?)sitemap([a-z0-9_\\-]*)?\\.xml",
+    "pgcache.purge.pages": [
+        ""
+    ],
+    "pgcache.purge.sitemap_regex": "([a-z0-9_\\-]*?) sitemap([a-z0-9_\\-]*??\\.xml",
     "pgcache.prime.enabled": false,
     "pgcache.prime.interval": 900,
     "pgcache.prime.limit": 10,
@@ -885,7 +903,7 @@
     "timelimit.cdn_test": 300,
     "timelimit.domain_rename": 120,
     "timelimit.minify_recommendations": 600,
-    "common.instance_id": 0,
+    "common.instance_id": 724802078,
     "common.force_master": true,
     "extensions.active": {
         "fragmentcache": "w3-total-cache\/Extension_FragmentCache_Plugin.php"

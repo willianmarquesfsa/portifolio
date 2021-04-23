@@ -30,3 +30,6 @@ Headers: , To: willianmarques_fsa@hotmail.com, Subject: [Limpaky] Produto com es
 Headers: , To: willianmarques_fsa@hotmail.com, Subject: [Limpaky] Produto com estoque baixo
 Headers: , To: limpaky@uol.com.br, Subject: [Limpaky]: Novo pedido #4731
 Headers: , To: willianomarques@gmail.com, Subject: Seu pedido em Limpaky foi recebido!
+Headers: , To: anderson_duarte10@hotmail.com, Subject: [Limpaky] Senha alterada
+Headers: , To: limpaky@uol.com.br, Subject: [Limpaky]: Novo pedido #4808
+Headers: , To: willianmarques_fsa@hotmail.com, Subject: Seu pedido em Limpaky foi recebido!
