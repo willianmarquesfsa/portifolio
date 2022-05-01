@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="pt-BR" itemscope="itemscope" itemtype="http://schema.org/WebPage" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.limpakydistribuidora.com.br/LAK/xmlrpc.php">
+
+<title>Limpaky &#8211; Distribuidora LTDA</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Limpaky &raquo;" href="http://www.limpakydistribuidora.com.br/LAK" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Limpaky &raquo;" href="http://www.limpakydistribuidora.com.br/LAK/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.limpakydistribuidora.com.br\/LAK\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-includes/css/dist/block-library/theme.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.9.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.9.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400%2C600%2C600%2C700%7CLato%3A400%2C300%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/fontawesome/css/font-awesome.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='lightslider-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/css/lightslider.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='linearicons-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/linearicons/style.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='storevilla-style-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/style.css?ver=5.6' type='text/css' media='all' />
+<style id='storevilla-style-inline-css' type='text/css'>
+
+            .main-navigation,
+            .header-wrap .search-cart-wrap .advance-search .sv_search_form #searchsubmit,
+            .top-header-regin ul li span.cart-count,
+            .main-navigation ul ul,
+            .widget_storevilla_cat_widget_area .category-slider li .item-img a:hover .sv_category_count,
+            .product-button-wrap a.button,
+            .product-button-wrap a.added_to_cart,
+            .widget_storevilla_promo_pages_area .promo-area a:hover button,
+            .widget_storevilla_blog_widget_area .blog-preview a.blog-preview-btn:hover,
+            .widget_storevilla_blog_widget_area .large-blog-preview a.blog-preview-btn:hover,
+            .lSSlideOuter .lSPager.lSpg > li:hover a,
+            .lSSlideOuter .lSPager.lSpg > li.active a,
+            .widget_storevilla_contact_info_area ul li span:hover,
+            .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+            .yith-woocompare-widget a.clear-all:hover,
+            .yith-woocompare-widget .compare.button,
+            .widget_search form input[type=submit],
+            .widget_product_search form input[type=submit],
+            .no-results.not-found .search-form .search-submit,
+            .woocommerce nav.woocommerce-pagination ul li a:focus,
+            .woocommerce nav.woocommerce-pagination ul li a:hover,
+            .woocommerce nav.woocommerce-pagination ul li span.current,
+            .item-img .new-label.new-top-left,
+            .widget_storevilla_cat_with_product_widget_area .block-title-desc a.view-bnt:hover,
+            .site-header-cart .woocommerce a.button.wc-forward,
+            .woocommerce #respond input#submit,
+            .woocommerce a.button,
+            .woocommerce button.button,
+            .woocommerce input.button,
+            .header-wrap .search-cart-wrap .advance-search .sv_search_form #searchsubmit:hover,
+            .normal-search .search-form .search-submit:hover,
+            .quantity button,
+            .woocommerce #respond input#submit.alt.disabled,
+            .woocommerce #respond input#submit.alt.disabled:hover,
+            .woocommerce #respond input#submit.alt:disabled,
+            .woocommerce #respond input#submit.alt:disabled:hover,
+            .woocommerce #respond input#submit.alt[disabled]:disabled,
+            .woocommerce #respond input#submit.alt[disabled]:disabled:hover,
+            .woocommerce a.button.alt.disabled,
+            .woocommerce a.button.alt.disabled:hover,
+            .woocommerce a.button.alt:disabled,
+            .woocommerce a.button.alt:disabled:hover,
+            .woocommerce a.button.alt[disabled]:disabled,
+            .woocommerce a.button.alt[disabled]:disabled:hover,
+            .woocommerce button.button.alt.disabled,
+            .woocommerce button.button.alt.disabled:hover,
+            .woocommerce button.button.alt:disabled,
+            .woocommerce button.button.alt:disabled:hover,
+            .woocommerce button.button.alt[disabled]:disabled,
+            .woocommerce button.button.alt[disabled]:disabled:hover,
+            .woocommerce input.button.alt.disabled,
+            .woocommerce input.button.alt.disabled:hover,
+            .woocommerce input.button.alt:disabled,
+            .woocommerce input.button.alt:disabled:hover,
+            .woocommerce input.button.alt[disabled]:disabled,
+            .woocommerce input.button.alt[disabled]:disabled:hover,
+            .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+            .woocommerce div.product .woocommerce-tabs ul.tabs li:hover,
+            .woocommerce #respond input#submit.alt,
+            .woocommerce a.button.alt,
+            .woocommerce button.button.alt,
+            .woocommerce input.button.alt,
+            .main-navigation ul ul li.current-menu-item a,
+            .main-navigation ul ul li a:hover,
+            .main-navigation ul ul li.current-menu-item a,
+            .main-navigation ul ul li a:hover,
+            .woocommerce-MyAccount-navigation ul li.is-active a,
+            .woocommerce-MyAccount-navigation ul li:hover a,
+            .woocommerce #respond input#submit.alt:hover,
+            .woocommerce a.button.alt:hover,
+            .woocommerce button.button.alt:hover,
+            .woocommerce input.button.alt:hover,
+            .woocommerce-cart table.cart .quantity button:hover,
+            .comments-area .form-submit .submit,
+            .error-homepage a,
+            .error-homepage a:hover,
+            .pagination .nav-links span.current,
+            .pagination .nav-links a:hover{
+                background: #072c60;                
+            }
+            .main-navigation ul li ul li:hover a,
+            .top-header .top-header-regin ul li a:hover,
+            .top-header-regin .count .fa.fa-shopping-basket:hover,
+            .top-header ul.store-quickinfo li a:hover,
+            ul.add-to-links li a:hover,
+            .main-widget-wrap .block-title span,
+            .block-title span,
+            .widget_storevilla_column_product_widget_area .column-wrap .col-wrap .block-title h2,
+            .widget_nav_menu ul li a:hover,
+            .widget_pages ul li a:hover,
+            .widget_recent_entries ul li a:hover,
+            .widget_meta ul li a:hover,
+            .widget_archive ul li a:hover,
+            .widget_categories ul li a:hover,
+            a.scrollup:hover,
+            h3.widget-title, h3.comment-reply-title,
+            .comments-area h2.comments-title,
+            .woocommerce .star-rating span::before,
+            .woocommerce a.remove,
+            .woocommerce nav.woocommerce-pagination ul li a,
+            .woocommerce nav.woocommerce-pagination ul li span,
+            .woocommerce-tabs.wc-tabs-wrapper h2,
+            .woocommerce .woocommerce-tabs p.stars a,
+            .single-product .compare.button:hover,
+            .single-product .entry-summary .yith-wcwl-add-to-wishlist a:hover,
+            td a,
+            .woocommerce-MyAccount-navigation ul li a,
+            .woocommerce-MyAccount-content a,
+            .woocommerce a.remove,
+            table.wishlist_table .product-name a:hover,
+            table.wishlist_table .product-name a.button:hover,
+            .storevilla-blog h3 a:hover,
+            .storevilla-blog .sv-post-content .category-name span a:hover,
+            .storevilla-blog .sv-post-foot a:hover,
+            .storevilla-blog .sv-post-content a.sv-btn-countinuereading:hover,
+            .blog-meta li a:hover,
+            .post-navigation .nav-links .nav-previous a:hover,
+            .post-navigation .nav-links .nav-next a:hover,
+            .widget_recent_comments ul li .comment-author-link a,
+            .top-header .top-navigation ul li a:hover{
+               color: #072c60; 
+            }
+            .product-button-wrap a.button,
+            .product-button-wrap a.added_to_cart,
+            .widget_storevilla_promo_pages_area .promo-area a:hover button,
+            .widget_storevilla_blog_widget_area .blog-preview a.blog-preview-btn:hover,
+            .widget_storevilla_blog_widget_area .large-blog-preview a.blog-preview-btn:hover,
+            .widget_storevilla_contact_info_area ul li span:hover,
+            .yith-woocompare-widget a.clear-all:hover,
+            .yith-woocompare-widget .compare.button,
+            .woocommerce nav.woocommerce-pagination ul,
+            .woocommerce nav.woocommerce-pagination ul li,
+            .widget_storevilla_cat_with_product_widget_area .block-title-desc a.view-bnt:hover,
+            .product-button-wrap a,
+            .woocommerce #respond input#submit,
+            .woocommerce a.button,
+            .woocommerce button.button,
+            .woocommerce input.button,
+            .woocommerce div.product form.cart div.quantity,
+            .woocommerce-MyAccount-navigation ul li a,
+            .woocommerce-MyAccount-content,
+            .woocommerce .woocommerce-message,
+            .pagination .nav-links span.current,
+            .pagination .nav-links a:hover{
+                border-color: #072c60;
+            }
+            .woocommerce div.product .woocommerce-tabs .panel.entry-content.wc-tab{
+                border-top-color: #072c60; 
+            }
+            .item-img .new-label.new-top-left:before{
+                border-color: transparent transparent transparent #072c60; 
+            }
+            @media (max-width: 768px){
+                  .main-navigation ul li a{
+                        color: #072c60 !important;
+                  }
+            }
+</style>
+<link rel='stylesheet' id='storevilla-responsive-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/css/responsive.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='storevilla-keyboard-css'  href='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/css/keyboard.css?ver=5.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://www.limpakydistribuidora.com.br/LAK/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="http://www.limpakydistribuidora.com.br/LAK/index.php?rest_route=/wp/v2/pages/4713" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.limpakydistribuidora.com.br/LAK/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.limpakydistribuidora.com.br/LAK/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<meta name="generator" content="WooCommerce 4.9.0" />
+<link rel="canonical" href="http://www.limpakydistribuidora.com.br/LAK/" />
+<link rel='shortlink' href='http://www.limpakydistribuidora.com.br/LAK/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.limpakydistribuidora.com.br/LAK/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.limpakydistribuidora.com.br%2FLAK%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.limpakydistribuidora.com.br/LAK/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.limpakydistribuidora.com.br%2FLAK%2F&#038;format=xml" />
+<meta name="generator" content="Custom Login v3.2.11" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+		<style id="storevilla-custom-header-styles" type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	</head>
+
+<body class="home page-template-default page page-id-4713 wp-custom-logo wp-embed-responsive theme-storevilla woocommerce-demo-store woocommerce-no-js rightsidebar boxlayout columns-4">
+
+
+<div id="page" class="hfeed site">
+
+	
+		<header id="masthead" class="site-header" >
+							<a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+						<div class="top-header">
+					
+					<div class="store-container clearfix">
+						
+													<nav class="top-navigation" role="navigation"><div class="menu-loja-container"><ul id="menu-loja" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://www.limpakydistribuidora.com.br/LAK/?page_id=6">Carrinho</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://www.limpakydistribuidora.com.br/LAK/?page_id=7">Finalizar compra</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="http://www.limpakydistribuidora.com.br/LAK/?page_id=8&#038;orders">Pedidos</a></li>
+</ul></div> </nav>
+													
+						<!-- Top-navigation -->
+						
+						<div class="top-header-regin">						
+								
+	                		<ul class="site-header-cart menu">
+
+    							    			
+    			                	<li>
+    				                    <a class="sv_login" href="http://www.limpakydistribuidora.com.br/LAK/?page_id=8">
+    				                        Entrar / Cadastre-se    				                    </a>
+    			                    </li>
+    			                
+	                											
+	                			<li>	                				
+	                				                <a class="cart-contents" href="http://www.limpakydistribuidora.com.br/LAK/?page_id=6" title="View your shopping cart">
+                    <div class="count">
+                        <i class="fa  fa-shopping-basket"></i>
+                        <span class="cart-count">0</span>
+                    </div>                                      
+                </a>
+            <div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>	                			</li>
+
+	                													<li>
+											<div class="header-widget-region" role="complementary">
+												<section id="woocommerce_widget_cart-3" class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Carrinho</h2>
+<div class="widget_shopping_cart_content"></div></section>											</div>
+										</li>
+								
+	                		</ul>								
+					          
+						</div>
+						
+					</div>
+					
+				</div>
+				
+		<div class="header-wrap clearfix">
+			<div class="store-container">
+				<div class="site-branding">
+					<a href="http://www.limpakydistribuidora.com.br/LAK/" class="custom-logo-link" rel="home" aria-current="page"><img width="879" height="361" src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/limpakyF.png" class="custom-logo" alt="Limpaky" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/limpakyF.png 879w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/limpakyF-300x123.png 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/limpakyF-768x315.png 768w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/limpakyF-350x144.png 350w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/limpakyF-600x246.png 600w" sizes="(max-width: 879px) 100vw, 879px" /></a>					<div class="sv-logo-wrap">
+						<div class="site-title"><a href="http://www.limpakydistribuidora.com.br/LAK/" rel="home">Limpaky</a></div>
+												<p class="site-description">Distribuidora LTDA</p>
+											</div>				
+				</div><!-- .site-branding -->
+				<div class="search-cart-wrap clearfix">
+										<div class="advance-search">
+							<form role="search" method="get" id="searchform"  action="http://www.limpakydistribuidora.com.br/LAK/">
+						 <div class="sv_search_wrap">
+                            <select class="sv_search_product false" name="term"><option value="">Todas as categorias</option><optgroup class="sv-advance-search" label="Todas as categorias"><option  value="alimentos">Alimentos</option><option  value="descartveis">Descartaveis</option><option  value="higiene-pessoal">Higiene Pessoal</option><option  value="hospitalares">Hospitalares</option><option  value="materiais-de-limpeza">Materiais de Limpeza</option><option  value="materiais-de-piscina">Materiais de Piscina</option><option  value="outros">Outros</option><option  value="recipientes-plasticos">Recipientes/Plasticos</option><option  value="tratamento-de-pisco">Tratamento de Pisco</option></optgroup></select>
+						 </div>
+                         <div class="sv_search_form">
+							 <input type="text" value="" name="s" id="s" placeholder="Um formulário de pesquisa para sua loja." />
+							 <button type="submit" id="searchsubmit"><i class="fa fa-search"></i></button>
+							 <input type="hidden" name="post_type" value="product" />
+							 <input type="hidden" name="taxonomy" value="product_cat" />
+						 </div>
+					</form>						</div>
+							
+				
+				</div>	
+			</div>
+		</div>
+	
+			<nav id="site-navigation" class="main-navigation">
+			<div class="store-container clearfix">
+				<div class="menu-toggle" aria-controls="primary-navigation" tabindex="0">
+					<span></span>
+				</div>
+				<div class="primary-navigation"><ul id="primary-menu" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="http://www.limpakydistribuidora.com.br/LAK/?post_type=product">Loja</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=materiais-de-limpeza">Materiais de Limpeza</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=recipientes-plasticos">Recipientes/Plásticos</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=descartveis">Descartaveis</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=hospitalares">Hospitalares</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=outros">Outros</a></li>
+</ul></div>			</div>
+		</nav><!-- #site-navigation -->
+				</header><!-- #masthead -->
+	
+	
+	<div id="content" class="site-content">
+	
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-4713" class="post-4713 page type-page status-publish hentry">
+
+	<header class="entry-header">
+		<h3 class="entry-title">Loja Virtual</h3>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="864" height="485" src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/WhatsApp-Image-2021-02-24-at-08.31.32-2-e1614609946234-edited.jpeg" alt="" data-id="4773" data-full-url="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/WhatsApp-Image-2021-02-24-at-08.31.32-2-e1614609946234-edited.jpeg" data-link="http://www.limpakydistribuidora.com.br/LAK/?attachment_id=4773" class="wp-image-4773" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/WhatsApp-Image-2021-02-24-at-08.31.32-2-e1614609946234-edited.jpeg 864w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/WhatsApp-Image-2021-02-24-at-08.31.32-2-e1614609946234-edited-300x168.jpeg 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/WhatsApp-Image-2021-02-24-at-08.31.32-2-e1614609946234-edited-768x431.jpeg 768w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/WhatsApp-Image-2021-02-24-at-08.31.32-2-e1614609946234-edited-312x175.jpeg 312w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/WhatsApp-Image-2021-02-24-at-08.31.32-2-e1614609946234-edited-600x337.jpeg 600w" sizes="(max-width: 864px) 100vw, 864px" /></figure></li></ul></figure>
+
+
+
+<h2 class="has-text-align-center has-black-color has-text-color has-medium-font-size">Categorias de produtos</h2>
+
+
+<div class="woocommerce columns-4"><ul class="products columns-4">
+<li class="product-category product first">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=alimentos"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/images/placeholder.png" alt="Alimentos" width="300" height="300" />		<h2 class="woocommerce-loop-category__title">
+			Alimentos <mark class="count">(2)</mark>		</h2>
+		</a></li>
+<li class="product-category product">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=descartveis"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/01/descartaveis.jpg" alt="Descartaveis" width="300" height="300" />		<h2 class="woocommerce-loop-category__title">
+			Descartaveis <mark class="count">(70)</mark>		</h2>
+		</a></li>
+<li class="product-category product">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=higiene-pessoal"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/images/placeholder.png" alt="Higiene Pessoal" width="300" height="300" />		<h2 class="woocommerce-loop-category__title">
+			Higiene Pessoal <mark class="count">(2)</mark>		</h2>
+		</a></li>
+<li class="product-category product last">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=hospitalares"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materiais-hospitalares11-300x300.jpg" alt="Hospitalares" width="300" height="300" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materiais-hospitalares11.jpg 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materiais-hospitalares11-150x150.jpg 150w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materiais-hospitalares11-175x175.jpg 175w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materiais-hospitalares11-100x100.jpg 100w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materiais-hospitalares11-32x32.jpg 32w" sizes="(max-width: 300px) 100vw, 300px" />		<h2 class="woocommerce-loop-category__title">
+			Hospitalares <mark class="count">(47)</mark>		</h2>
+		</a></li>
+<li class="product-category product first">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=materiais-de-limpeza"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materisi-delimoaeza-300x300.png" alt="Materiais de Limpeza" width="300" height="300" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materisi-delimoaeza-300x300.png 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materisi-delimoaeza-150x150.png 150w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materisi-delimoaeza-100x100.png 100w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/materisi-delimoaeza-32x32.png 32w" sizes="(max-width: 300px) 100vw, 300px" />		<h2 class="woocommerce-loop-category__title">
+			Materiais de Limpeza <mark class="count">(126)</mark>		</h2>
+		</a></li>
+<li class="product-category product">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=materiais-de-piscina"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/images/placeholder.png" alt="Materiais de Piscina" width="300" height="300" />		<h2 class="woocommerce-loop-category__title">
+			Materiais de Piscina <mark class="count">(3)</mark>		</h2>
+		</a></li>
+<li class="product-category product">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=outros"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/outros-300x300.png" alt="Outros" width="300" height="300" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/outros-300x300.png 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/outros-150x150.png 150w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/outros-100x100.png 100w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/outros-32x32.png 32w" sizes="(max-width: 300px) 100vw, 300px" />		<h2 class="woocommerce-loop-category__title">
+			Outros <mark class="count">(21)</mark>		</h2>
+		</a></li>
+<li class="product-category product last">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=recipientes-plasticos"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-300x300.png" alt="Recipientes/Plasticos" width="300" height="300" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-300x300.png 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-1024x1024.png 1024w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-150x150.png 150w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-768x768.png 768w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-175x175.png 175w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-600x600.png 600w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-100x100.png 100w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-32x32.png 32w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/03/recipientes-platicos13-e1616254462922.png 500w" sizes="(max-width: 300px) 100vw, 300px" />		<h2 class="woocommerce-loop-category__title">
+			Recipientes/Plasticos <mark class="count">(24)</mark>		</h2>
+		</a></li>
+<li class="product-category product first">
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product_cat=tratamento-de-pisco"><img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/images/placeholder.png" alt="Tratamento de Pisco" width="300" height="300" />		<h2 class="woocommerce-loop-category__title">
+			Tratamento de Pisco <mark class="count">(3)</mark>		</h2>
+		</a></li>
+</ul>
+</div>
+
+
+
+<h2 class="has-text-align-center"></h2>
+	</div><!-- .entry-content -->	
+
+</article><!-- #post-## -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+		<aside id="secondaryright" class="widget-area" role="complementary">
+			<section id="search-3" class="widget clearfix widget_search"><form role="search" method="get" class="search-form" action="http://www.limpakydistribuidora.com.br/LAK/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></section><section id="woocommerce_widget_cart-7" class="widget clearfix woocommerce widget_shopping_cart"><h3 class="widget-title">Carrinho</h3><div class="widget_shopping_cart_content"></div></section><section id="woocommerce_top_rated_products-3" class="widget clearfix woocommerce widget_top_rated_products"><h3 class="widget-title">Produtos bem avaliados</h3><ul class="product_list_widget"><li>
+	
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product=bloco-sanitario-de-30-g-marca-q-odor">
+		<img width="210" height="240" src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/BLOCO-SANITARIO-QODOR.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/BLOCO-SANITARIO-QODOR.jpg 210w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/BLOCO-SANITARIO-QODOR-153x175.jpg 153w" sizes="(max-width: 210px) 100vw, 210px" />		<span class="product-title">BLOCO SANITARIO QODOR PARA CAIXA ACOPLADA</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>4,13</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product=desentupidor-de-vaso-sanitario">
+		<img width="300" height="300" src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/80-desentupidor-de-vaso-sanitario-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/80-desentupidor-de-vaso-sanitario-300x300.jpeg 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/80-desentupidor-de-vaso-sanitario-150x150.jpeg 150w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/80-desentupidor-de-vaso-sanitario-100x100.jpeg 100w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/80-desentupidor-de-vaso-sanitario-32x32.jpeg 32w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">DESENTUPIDOR DE VASO SANITARIO</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>2,78</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product=fibrao-tamanho-87-x-125-cm-marca-bettanin">
+		<img width="244" height="207" src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Fibra-Tamanho-87-X-125-Cm-Marca-Bettanin.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Fibra-Tamanho-87-X-125-Cm-Marca-Bettanin.jpg 244w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Fibra-Tamanho-87-X-125-Cm-Marca-Bettanin-206x175.jpg 206w" sizes="(max-width: 244px) 100vw, 244px" />		<span class="product-title">Fibra?o Tamanho 87 X 125 Cm - Marca : Bettanin</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>2,10</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product=hipoclorito-liquido-10-de-05-litros-marca-kc">
+		<img src="http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/images/placeholder.png" width="300" height="300" class="woocommerce-placeholder wp-post-image" alt="Padrão"/>		<span class="product-title">Hipoclorito Liquido á 10 % De 05 Litros - Marca : Kc</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>12,60</bdi></span>
+	</li>
+<li>
+	
+	<a href="http://www.limpakydistribuidora.com.br/LAK/?product=luva-nitrilica-tamanho-medio-marca-volk-verde">
+		<img width="300" height="300" src="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-300x300.jpg 300w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-150x150.jpg 150w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-768x768.jpg 768w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-175x175.jpg 175w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-600x600.jpg 600w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-100x100.jpg 100w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1-32x32.jpg 32w, http://www.limpakydistribuidora.com.br/LAK/wp-content/uploads/2021/02/Luva-Nitrilica-volk-1.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Luva Nitrilica Tamanho Medio - Marca : Volk - Verde</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>8,22</bdi></span>
+	</li>
+</ul></section>		</aside><!-- #secondary -->
+		
+</div><!-- #content -->
+
+		
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+						
+		<div class="bottom-footer-wrap clearfix">
+
+			<div class="store-container">
+
+				<div class="site-info">
+											Implementado por Willian Marques +55 75 9 9227 4008 com a ferramenta	
+					 WordPress Theme: <a href=" https://accesspressthemes.com/wordpress-themes/storevilla/ " target="_blank">StoreVilla</a> 				</div><!-- .site-info -->
+			    <div class="payment-accept">
+	      	      	      	      	      	      	    </div>
+  			
+			
+		</footer><!-- #colophon -->
+		
+	
+    <a href="#" class="scrollup"><i class="fa fa-angle-up" aria-hidden="true"></i> </a>
+
+</div><!-- #page -->
+
+<p class="woocommerce-store-notice demo_store" data-notice-id="77732e23079b494cc831f461476564c7" style="display:none;">Entrega grátis somente para Feira de Santana em compras a partir de R$150 reais. <a href="#" class="woocommerce-store-notice__dismiss-link">Dispensar</a></p>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/LAK\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/LAK\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrinho","cart_url":"http:\/\/www.limpakydistribuidora.com.br\/LAK\/?page_id=6","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.9.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/LAK\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/LAK\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.9.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/LAK\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/LAK\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_0ec704f50669d53a054c9810fcdbc360","fragment_name":"wc_fragments_0ec704f50669d53a054c9810fcdbc360","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.9.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/js/lightslider.js' id='lightslider-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/js/navigation.js?ver=1.3.9' id='storevilla-navigation-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/js/skip-link-focus-fix.js?ver=1.3.9' id='storevilla-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/js/retina.js?ver=1.3.9' id='retina-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-content/themes/storevilla/assets/js/common.js?ver=1.3.9' id='storevilla-common-js'></script>
+<script type='text/javascript' src='http://www.limpakydistribuidora.com.br/LAK/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: www.limpakydistribuidora.com.br @ 2022-03-06 19:40:29 by W3 Total Cache
+-->
